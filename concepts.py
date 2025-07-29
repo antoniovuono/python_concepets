@@ -6,7 +6,6 @@ height = 1.78 # float()
 python_student = True # bool()
 
 # Atribuindo valor a várias variáveis:
-
 x,y,z = 2,4,6
 
 # Função print(): Exibe um valor no console.
